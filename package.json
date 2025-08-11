@@ -1,0 +1,24 @@
+{
+  "name": "restfull_api",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "Betlienski Carolina",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scarfcarob/RESTFull_API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/scarfcarob/RESTFull_API/issues"
+  },
+  "homepage": "https://github.com/scarfcarob/RESTFull_API#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
